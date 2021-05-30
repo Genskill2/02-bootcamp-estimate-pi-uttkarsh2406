@@ -9,7 +9,7 @@ def wallis(n):
     return  (2*sum)
 
 
-import  random
+from random import *
 def monte_carlo(n):
     circle=0;
     square=0;
